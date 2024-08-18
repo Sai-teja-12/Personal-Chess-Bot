@@ -1,0 +1,5 @@
+venv/
+data/pgn/
+*.pyc
+__pycache__/
+
